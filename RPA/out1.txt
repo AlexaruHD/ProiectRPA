@@ -1,0 +1,62 @@
+nume ﬁrst name lastname
+
+Date of birth: 14/03/2022 Nationality: Danish Gender: Other  Phone number: (+359) 321321321 (Work)
+Email address: email@email.com  Facebook: www.link  Address: dsadsa, sd, Czechia (Home)
+
+WORK EXPERIENCE
+
+17/02/2008 – 18/03/2011
+SENIOR JAVA PROGRAMMER
+
+Applied JAVA OOP concepts to introduce additional functionality for a bottom-up bill-of-materials tree
+traversal & reporting tool reducing run-time by 70+%.
+Optimized the landing page through the reduction of unnecessary calls to the back-end inturn reducing
+startup time by 50%.
+Architected & developed a process for transferring conﬁguration data from one software system to a
+separate system database utilizing a centralized web service later improving on it to transfer only changes
+speeding up the whole system by 90+%.
+• Streamlined critical production tickets for same-day emergency releases reducing major customer impact
+& improving productivity by 40%.
+
+18/03/2012 – 08/03/2019 Belgium
+PHP DEVELOPER
+
+Utilized OpenGL ES, hardware acceleration & optimizations based on a custom built framework & toolchain
+to develop & update a 2D & 3D graphics-intensive real-time rendered Android application in Java & C++
+enhancing performance by 150%.
+Implemented widescale application testing on multiple android targets uncovering 20+ issues.
+Collaborated with the backend team to construct & optimize various complex algorithms improving
+performance by 70+%.
+
+DIGITAL SKILLS
+
+Microsoft Oﬃce C, C++c C# Javascript(Nodejs, ExpressJs)
+EDUCATION AND TRAINING
+
+18/07/2014 – 17/08/2017
+APPLIED COMPUTER SCIENCE West University of Timisoara
+
+ADDITIONAL INFORMATION
+
+DRIVING LICENCE
+
+Driving Licence: B
+PROJECTS
+
+08/07/2023 – 04/10/2028
+QuantumTask Manager Technology Stack: Quantum Computing, React Native, Node.js, MongoDB
+• Description: Enter the realm of cutting-edge computing with QuantumTask Manager, a revolutionary
+task management app powered by quantum computing. Leverage the power of qubits to handle
+complex algorithms, ensuring ultra-fast task prioritization and scheduling. The app seamlessly
+integrates with everyday devices through a React Native frontend, while the backend, powered by
+Node.js and MongoDB, ensures secure and scalable data management. Explore a new dimension of
+productivity as QuantumTask Manager transforms the way you organize and execute tasks.12/04/2012 – 19/04/2017
+SmartHealth Companion Write here thTechnology Stack: Artiﬁcial Intelligence, Python, Django,
+TensorFlow, Mobile Health (mHealth)
+Description: Introducing SmartHealth Companion, an intelligent health management app designed to
+redeﬁne personal wellness. Utilizing advanced artiﬁcial intelligence and TensorFlow, the app analyzes user
+health data to provide personalized insights and recommendations. Built on a robust Django backend,
+SmartHealth Companion ensures secure data handling and integrates seamlessly with various mHealth
+devices. Experience real-time health monitoring, personalized ﬁtness plans, and proactive health
+suggestions, all backed by the latest advancements in AI and health technology. SmartHealth Companion is
+not just an app; it's your companion on the journey to a healthier lifestyle.e description...
